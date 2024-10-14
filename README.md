@@ -1,3 +1,4 @@
++ link temple chat: https://www.bootdey.com/snippets/view/chat-app
 # Laravel Authentication Setup
 
 This guide explains how to set up a login and registration system using Laravel's built-in authentication scaffolding. You can choose between **Laravel Breeze** for a lightweight solution or **Laravel UI** for more flexibility with Bootstrap, Vue, or React.
